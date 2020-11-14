@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="@string/numero_uno"
-        android:inputType="textPersonName" />
+        android:inputType="numberSigned|number|textPersonName" />
 
     <EditText
         android:id="@+id/txtNumeroDos"
@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="@string/numero_dos"
-        android:inputType="textPersonName" />
+        android:inputType="numberSigned|number|textPersonName" />
 
     <Button
         android:id="@+id/btnCalcular"
