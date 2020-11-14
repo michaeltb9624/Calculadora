@@ -6,4 +6,5 @@
     <string name="calcular">Sumar</string>
     <string name="mensaje_error_numero_uno">Digite el número uno</string>
     <string name="mensaje_error_numero_dos">Digite el número dos</string>
+    <string name="limpiar">Limpiar</string>
 </resources>

@@ -4,7 +4,8 @@
     <string name="titulo">CALCULATOR</string>
     <string name="numero_uno">Number One</string>
     <string name="numero_dos">Number Two</string>
-    <string name="calcular">Sum</string>
+    <string name="calcular">Add</string>
     <string name="mensaje_error_numero_uno">Type number one</string>
     <string name="mensaje_error_numero_dos">Type number two</string>
+    <string name="limpiar">Clean</string>
 </resources>
